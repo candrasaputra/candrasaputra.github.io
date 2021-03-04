@@ -1,0 +1,19 @@
+{
+  "topUpYourBalance": "Top Up Your Balance",
+  "downloadInstructions": "Download instructions",
+  "yourAccountManagerWillHelp": "Your Account Manager (AM) will help you pre-fund your Xendit disbursement account.",
+  "topUpStep1": "Before you start disbursing, make sure you have transferred the total amount for payout to one of Xendit's bank accounts (listed below). Xendit will hold these funds securely on your behalf.",
+  "topUpStep2": "Inform your AM by providing proof of funds transfer/deposit.",
+  "topUpStep3": "Your AM will confirm once the funds are available for disbursement. Depending on the channel used, these are the expected turnaround time for crediting:",
+  "bank": "Bank",
+  "accountName": "Account Name",
+  "accountNumber": "Account Number",
+  "intraBFT": "Intrabank Fund Transfer - 15 mins",
+  "interBFT": "Interbank Fund Transfer (IBFT)",
+  "bankOTCDepositCheck": "Bank Over-the-Counter Deposit (Check) - 1PM cut-off",
+  "bankOTCDepositCash": "Bank Over-the-Counter Deposit (Cash) - 15 mins",
+  "instaPay": "InstaPay (up to PHP 50,000) - 15 mins",
+  "pesoNet": "PESONet - within 1 banking day if within 12NN cut-off",
+  "localCheck": "Local Check - 3 banking days",
+  "regionalCheck": "Regional Check - 5 banking days"
+}

@@ -1,0 +1,19 @@
+{
+  "ticketNo": "Tiket Nomor. {{ ticketNo }}・{{ date }}",
+  "actionNeededTitle": "Kami membutuhkan info lebih lanjut terkait transaksi ini",
+  "needAction": "Perlu Aksi",
+  "inProgress": "Dalam Proses",
+  "resolved": "Selesai",
+  "contactUs": "Hubungi kami",
+  "transactionId": "ID Transaksi",
+  "amount": "Jumlah",
+  "vaNumber": "Nomor VA",
+  "finalVerdict": "Final Verdict",
+  "completed": "Completed",
+  "notFound": "Not Found",
+  "emptyText": "Belum ada isu.",
+  "inProgressBody": "Kami masih melakukan pengecekan terhadap isu Anda.",
+  "needActionBody": "Tolong hubungi kami untuk dapat melanjutkan.",
+  "resolvedBody": "Isu ini telah terselesaikan.",
+  "showingTotalAccounts": "Menampilkan {{ from }} sampai {{ to }} dari {{ size }} tiket"
+}

@@ -1,0 +1,20 @@
+{
+  "headerTitle":"RDL Investors Details",
+  "investorDetails": "Investor Details",
+  "cardHeaderTitle":"Details",
+  "loadingRDLInvestorsDetails":"Loading RDL Investors Details",
+  "id":"ID",
+  "external_id":"External ID",
+  "first_name":"First Name",
+  "middle_name":"Middle Name",
+  "last_name":"Last Name",
+  "npwp_number":"NPWP Number",
+  "id_number":"ID Number (KTP)",
+  "email":"Email",
+  "account_status":"Account Status",
+  "account_number":"Account Number",
+  "failure_reason":"Failure Reason",
+  "account_balance":"Account Balance",
+  "created":"Created Date",
+  "updated":"Updated Date"
+}

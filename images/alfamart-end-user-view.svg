@@ -1,0 +1,85 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="351" height="467" style=""><rect id="backgroundrect" width="100%" height="100%" x="0" y="0" fill="none" stroke="none"/>
+    <defs>
+        <rect id="a" width="351" height="467" rx="4"/>
+        <linearGradient id="c" x1="50%" x2="50%" y1="0%" y2="100%">
+            <stop offset="0%" stop-color="#FFF" stop-opacity="0"/>
+            <stop offset="100%" stop-color="#FFF"/>
+        </linearGradient>
+    </defs>
+    
+<g class="currentLayer" style=""><title>Layer 1</title><g fill="none" fill-rule="evenodd" id="svg_1" class="">
+        <mask id="b" fill="#fff">
+            <use xlink:href="#a" id="svg_2"/>
+        </mask>
+        <use fill="#DFDFDF" fill-rule="nonzero" xlink:href="#a" id="svg_3"/>
+        <path fill="#FFF" fill-rule="nonzero" d="M0 0h351v467H0z" mask="url(#b)" id="svg_4"/>
+        <text fill="#9B9B9B" font-family="OpenSans, Open Sans" font-size="14" mask="url(#b)" id="svg_5">
+            <tspan x="98.729" y="31" id="svg_6">ADDRESS / 9999999999</tspan> <tspan x="64.228" y="50" id="svg_7">PT. SUMBER ALFARIA TRIJAYA, TBK</tspan>
+        </text>
+        <text fill="#9B9B9B" font-family="OpenSans, Open Sans" font-size="14" mask="url(#b)" id="svg_8">
+            <tspan x="17.535" y="85" id="svg_9">ALFA TOWER LT. 12. ALAM SUTERA, TANGERANG</tspan> <tspan x="80.074" y="104" id="svg_10">NPWP : 01.336.230.9-054.000</tspan>
+        </text>
+        <text fill="#9B9B9B" font-family="OpenSans, Open Sans" font-size="14" mask="url(#b)" id="svg_11">
+            <tspan x="126.955" y="158" id="svg_12">TOKO JAKARTA</tspan> <tspan x="102.8" y="177" id="svg_13">21-AUG-2019 18:11:53</tspan>
+        </text>
+        <text fill="#9B9B9B" font-family="OpenSans, Open Sans" font-size="14" mask="url(#b)" id="svg_14">
+            <tspan x="62.28" y="458" id="svg_15"> ——— DETAIL CARA BAYAR ———</tspan>
+        </text>
+        <text fill="#9B9B9B" font-family="OpenSans, Open Sans" font-size="14" mask="url(#b)" id="svg_16">
+            <tspan x="16" y="258" id="svg_17">ID TRANSAKSI :</tspan>
+        </text>
+        <text fill="#9B9B9B" font-family="OpenSans, Open Sans" font-size="14" mask="url(#b)" id="svg_18">
+            <tspan x="16" y="323" id="svg_19">NAMA KONSUMEN :</tspan>
+        </text>
+        <text fill="#9B9B9B" font-family="OpenSans, Open Sans" font-size="14" mask="url(#b)" id="svg_20">
+            <tspan x="16" y="369" id="svg_21">TAGIHAN :</tspan>
+        </text>
+        <text fill="#9B9B9B" font-family="OpenSans, Open Sans" font-size="14" mask="url(#b)" id="svg_22">
+            <tspan x="16" y="415" id="svg_23">TOTAL BAYAR :</tspan>
+        </text>
+        <text fill="#9B9B9B" font-family="OpenSans, Open Sans" font-size="14" mask="url(#b)" id="svg_24">
+            <tspan x="16" y="392" id="svg_25">CUSTOMER FEE :</tspan>
+        </text>
+        <text fill="#9B9B9B" font-family="OpenSans, Open Sans" font-size="14" mask="url(#b)" id="svg_26">
+            <tspan x="16" y="346" id="svg_27">KETERANGAN :</tspan>
+        </text>
+        <text fill="#9B9B9B" font-family="OpenSans, Open Sans" font-size="14" mask="url(#b)" id="svg_28">
+            <tspan x="16" y="300" id="svg_29">KODE PEMBAYARAN :</tspan>
+        </text>
+        <text fill="#9B9B9B" font-family="OpenSans, Open Sans" font-size="14" mask="url(#b)" id="svg_30">
+            <tspan x="186" y="258" id="svg_31">76sdsd66d6s76ds67sd</tspan> <tspan x="186" y="277" id="svg_32">6sd67</tspan>
+        </text>
+        <text fill="#9B9B9B" font-family="OpenSans, Open Sans" font-size="14" mask="url(#b)" id="svg_33">
+            <tspan x="186" y="323" id="svg_34">TEST AKULAKUKALI</tspan>
+        </text>
+        <text fill="#9B9B9B" font-family="OpenSans, Open Sans" font-size="14" mask="url(#b)" id="svg_35">
+            <tspan x="186" y="369" id="svg_36">Rp. 15000,-</tspan>
+        </text>
+        <text fill="#9B9B9B" font-family="OpenSans, Open Sans" font-size="14" mask="url(#b)" id="svg_37">
+            <tspan x="186" y="415" id="svg_38">Rp. 15000,-</tspan>
+        </text>
+        <text fill="#9B9B9B" font-family="OpenSans, Open Sans" font-size="14" mask="url(#b)" id="svg_39">
+            <tspan x="186" y="392" id="svg_40">Rp. 0,-</tspan>
+        </text>
+        <text fill="#9B9B9B" font-family="OpenSans, Open Sans" font-size="14" mask="url(#b)" id="svg_41">
+            <tspan x="186" y="346" id="svg_42">-</tspan>
+        </text>
+        <text font-family="OpenSans-Semibold, Open Sans" font-size="14" font-weight="500" mask="url(#b)" id="svg_43">
+            <tspan x="186" y="300" fill="#4A4A4A" id="svg_44">AKLK</tspan> <tspan x="220.74" y="300" fill="#9B9B9B" font-family="OpenSans, Open Sans" font-weight="normal" id="svg_45">87623467823643</tspan>
+        </text>
+        <g font-size="14" mask="url(#b)" id="svg_46">
+            <text font-family="OpenSans-Semibold, Open Sans" font-weight="500" y="205" x="99" id="svg_47">
+                <tspan x="117.172" y="220" fill="#4A4A4A" id="svg_48">TokoAkuLakuKali</tspan>
+            </text>
+            <text font-family="Material-Design-Icons, Material Design Icons" y="205" x="99" id="svg_49">
+                <tspan x="99" y="220" fill="#4A4A4A" id="svg_50"></tspan>
+            </text>
+            <text font-family="Material-Design-Icons, Material Design Icons" transform="matrix(-1,0,0,1,391,205) " id="svg_51">
+                <tspan x="139" y="15" fill="#4A4A4A" id="svg_52"></tspan>
+            </text>
+        </g>
+        <text fill="#4A4A4A" font-family="OpenSans, Open Sans" font-size="14" mask="url(#b)" id="svg_53">
+            <tspan x="11.4" y="131" id="svg_54">=========================================</tspan>
+        </text>
+        <path fill="url(#c)" fill-rule="nonzero" d="M0 310h351v157H0z" mask="url(#b)" id="svg_55"/>
+    </g><rect fill="none" stroke-dashoffset="" fill-rule="evenodd" id="svg_56" x="83" y="200" width="130" height="26" style="color: rgb(0, 0, 0);"/><path fill="#ffffff" stroke-dashoffset="" fill-rule="evenodd" marker-start="" marker-mid="" marker-end="" id="svg_58" d="M35.82379249923696,207.87211281442217 L282.77911801228316,207.87211281442217 L282.77911801228316,226.52793120701898 L35.82379249923696,226.52793120701898 L35.82379249923696,207.87211281442217 zM64.63524714242959,191.39280656762844 L64.63524714242959,205.6956006686197 L253.96766336910432,205.6956006686197 L253.96766336910432,191.39280656762844 L64.63524714242959,191.39280656762844 z" style="color: rgb(0, 0, 0);" class="" fill-opacity="1" stroke="#ffffff" stroke-opacity="1"/><path fill="none" stroke-dashoffset="" fill-rule="evenodd" marker-start="" marker-mid="" marker-end="" id="svg_61" d="M36.129247308220926,210.3092292453274 L40.434439382306834,210.3092292453274 L40.434439382306834,214.6144213194133 L36.129247308220926,214.6144213194133 L36.129247308220926,210.3092292453274 zM36.631519716864275,206.50630957988486 L36.631519716864275,209.80695683668407 L39.93216697366348,209.80695683668407 L39.93216697366348,206.50630957988486 L36.631519716864275,206.50630957988486 z" style="color: rgb(0, 0, 0);"/><path fill="none" stroke-dashoffset="" fill-rule="evenodd" marker-start="" marker-mid="" marker-end="" id="svg_63" d="M43.65897835903696,211.4302187047363 L57.14857360715703,211.4302187047363 L57.14857360715703,224.91981395285637 L43.65897835903696,224.91981395285637 L43.65897835903696,211.4302187047363 zM45.23276447131764,199.5144095688968 L45.23276447131764,209.85643259245597 L55.57478749487624,209.85643259245597 L55.57478749487624,199.5144095688968 L45.23276447131764,199.5144095688968 z" style="color: rgb(0, 0, 0);"/><path fill="none" stroke-dashoffset="" fill-rule="evenodd" marker-start="" marker-mid="" marker-end="" id="svg_65" d="M203.39682120966106,271.0613580288224 L213.15524002068247,271.0613580288224 L213.15524002068247,280.8197768398454 L203.39682120966106,280.8197768398454 L203.39682120966106,271.0613580288224 zM204.53530340428114,262.441421412422 L204.53530340428114,269.9228758342051 L212.01675782606281,269.9228758342051 L212.01675782606281,262.441421412422 L204.53530340428114,262.441421412422 z" style="color: rgb(0, 0, 0);"/><path fill="none" stroke-dashoffset="" fill-rule="evenodd" marker-start="" marker-mid="" marker-end="" id="svg_67" d="M220.60762344712043,295.32568780842155 L229.2180045228166,295.32568780842155 L229.2180045228166,303.9360688841175 L220.60762344712043,303.9360688841175 L220.60762344712043,295.32568780842155 zM221.6121679059517,287.7198511915566 L221.6121679059517,294.3211433495902 L228.21346006398534,294.3211433495902 L228.21346006398534,287.7198511915566 L221.6121679059517,287.7198511915566 z" style="color: rgb(0, 0, 0);"/><path fill="none" stroke-dashoffset="" fill-rule="evenodd" marker-start="" marker-mid="" marker-end="" id="svg_69" d="M258.7941207919621,358.95168880347137 L269.4136583849497,358.95168880347137 L269.4136583849497,369.5712263964592 L258.7941207919621,369.5712263964592 L258.7941207919621,358.95168880347137 zM260.03306684447716,349.57109726299905 L260.03306684447716,357.7127427509563 L268.1747123324344,357.7127427509563 L268.1747123324344,349.57109726299905 L260.03306684447716,349.57109726299905 z" style="color: rgb(0, 0, 0);"/><path fill="none" stroke-dashoffset="" fill-rule="evenodd" marker-start="" marker-mid="" marker-end="" id="svg_71" d="M259.46927324082367,370.9334757445265 L259.7562846640759,370.9334757445265 L259.7562846640759,371.22048716777874 L259.46927324082367,371.22048716777874 L259.46927324082367,370.9334757445265 zM259.50275790686976,370.67994898732036 L259.50275790686976,370.8999910784804 L259.7227999980298,370.8999910784804 L259.7227999980298,370.67994898732036 L259.50275790686976,370.67994898732036 z" style="color: rgb(0, 0, 0);"/><path fill="none" stroke-dashoffset="" fill-rule="evenodd" marker-start="" marker-mid="" marker-end="" id="svg_73" d="M178.3618122633858,361.7631848275182 L181.23195266846415,361.7631848275182 L181.23195266846415,364.6333252325966 L178.3618122633858,364.6333252325966 L178.3618122633858,361.7631848275182 zM178.69666197731198,359.22789413636565 L178.69666197731198,361.4283351135923 L180.8971029545383,361.4283351135923 L180.8971029545383,359.22789413636565 L178.69666197731198,359.22789413636565 z" style="color: rgb(0, 0, 0);"/><path fill="none" stroke-dashoffset="" fill-rule="evenodd" marker-start="" marker-mid="" marker-end="" id="svg_75" d="M-4.937288532863623,336.18368159248587 L4.82114203323359,336.18368159248587 L4.82114203323359,345.942112158583 L-4.937288532863623,345.942112158583 L-4.937288532863623,336.18368159248587 zM-3.798804966818948,327.5637345924329 L-3.798804966818948,335.0451980264412 L3.6826584671889053,335.0451980264412 L3.6826584671889053,327.5637345924329 L-3.798804966818948,327.5637345924329 z" style="color: rgb(0, 0, 0);"/><rect fill="#ffffff" stroke="#ffffff" stroke-dashoffset="" fill-rule="evenodd" id="svg_57" x="179" y="288" width="55" height="15" style="color: rgb(0, 0, 0);"/></g></svg>

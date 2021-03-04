@@ -1,0 +1,12 @@
+{
+  "register": "Daftar",
+  "phoneNumber": "Nomor telepon",
+  "newAccountAdded": "Anda telah menambahkan akun baru ke Dashboard Anda!",
+  "loginNow": "Masuk sekarang",
+  "backToDashboard": "Kembali ke Dashboard",
+  "passwordError": "Wajib. Harap masukkan password dengan format yang benar.",
+  "phoneNumberError": "Wajib. Harap masukkan nomor telepon dengan format yang benar.",
+  "passwordNotMatch": "Password dan konfirmasi password tidak cocok",
+  "required": "Wajib diisi",
+  "phoneNumberPlaceholder": "contoh: +6281200000000"
+}

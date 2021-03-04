@@ -1,0 +1,16 @@
+{
+    "displayedInvoiceNo": "External ID is displayed as Invoice No. on customer’s invoice.",
+    "emailCheckbox": "Send Invoice To This Email",
+    "due": "Invoice Due",
+    "amount": "Amount",
+    "invoiceRemainder": "Invoice Reminder",
+    "doNotSendReminder": "Do not send a reminder",
+    "dayBeforeDueDate": "{{day}} day{{pluralize}} before due date",
+    "descPlaceholder": "Invoice Description",
+    "congratulations": "Congratulations!\n",
+    "created": "The invoice has been created",
+    "createdAndSent": "The invoice has been created and sent",
+    "copyLinkBelow": "Share the invoice with your customer",
+    "copyThis": "Copy this url",
+    "createAnother": "Create Another"
+}

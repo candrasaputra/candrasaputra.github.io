@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="18px" height="19px" viewBox="0 0 18 19" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 57.1 (83088) - https://sketch.com -->
+    <title>withdrawal_icon</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="24" height="24"></rect>
+    </defs>
+    <g id="V2.0" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="withdrawal_icon" transform="translate(-3.000000, -2.000000)">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <g id="Mask" fill-rule="nonzero"></g>
+            <g id="Group-10" mask="url(#mask-2)" fill="#333333">
+                <g transform="translate(3.000000, 2.000000)">
+                    <path d="M13.484375,-2.5 C14.0468778,-2.5 14.5234355,-2.31250188 14.9140625,-1.9375 C15.3046895,-1.56249812 15.5,-1.07812797 15.5,-0.484375 L15.5,13.484375 C15.5,14.0468778 15.3046895,14.5234355 14.9140625,14.9140625 C14.5234355,15.3046895 14.0468778,15.5 13.484375,15.5 L4.515625,15.5 C3.95312219,15.5 3.47656445,15.3046895 3.0859375,14.9140625 C2.69531055,14.5234355 2.5,14.0468778 2.5,13.484375 L4.515625,13.484375 L13.484375,13.484375 L13.484375,-0.484375 L4.515625,-0.484375 L2.5,-0.484375 C2.5,-1.07812797 2.68749812,-1.56249812 3.0625,-1.9375 C3.43750187,-2.31250188 3.92187203,-2.5 4.515625,-2.5 L13.484375,-2.5 Z" id="" fill-rule="evenodd" transform="translate(9.000000, 6.500000) rotate(270.000000) translate(-9.000000, -6.500000) "></path>
+                    <polygon id="Path" fill-rule="nonzero" points="9.96875 15.015625 11.96875 15.015625 8.984375 19 6 15.015625 8 15.015625 8 5.984375 9.96875 5.984375"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

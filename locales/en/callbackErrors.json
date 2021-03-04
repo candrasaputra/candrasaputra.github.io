@@ -1,0 +1,17 @@
+{
+  "errorCode100": "We couldn't reach your server. This could be due to an internet connectivity issue or your server being temporarily unavailable because of an update or other reason.",
+  "errorCode300": "We receive redirection status. This could be because the endpoint used for the callback is being moved, temporarily or permanently.",
+  "errorCode400": "We receive client error. This could be due to mishandling of our callback request payload on your endpoint, please take a look at the request payload on callback detail page.",
+  "errorCode500": "We receive server error. This is most likely because your callback endpoint is not working as expected at the time when we hit your endpoint.",
+  "errorCategory100": "Informational",
+  "errorCategory300": "Redirection",
+  "errorCategory400": "Client Error",
+  "errorCategory500": "Server Error",
+  "ETIMEDOUT": "A connect or send request failed because the connected party did not properly respond after a period of time. Kindly check the record in your system before retrying to avoid duplicate delivery and implement idempotent handling if you haven't already.",
+  "ECONNRESET": "A connection was forcibly closed by a peer resulting in a loss of connection. Kindly check the record in your system before retrying to avoid duplicate delivery and implement idempotent handling if you haven't already.",
+  "CERT_HAS_EXPIRED": "We couldn't reach your server's URL due to expired certificate. Kindly check and renew your SSL certificate to receive callback normally again.",
+  "EAI_AGAIN": "We couldn't reach your server due to DNS lookup timeout. This could happen when there is an issue on your proxy settings or intermittent network issue. Kindly check your internet connection and retry the until it is completed.",
+  "ESOCKETTIMEDOUT": "We couldn't reach your server due to DNS lookup timeout. This could happen when there is an issue on your proxy settings or intermittent network issue. Kindly check your system performance and retry the delivery until it is completed.",
+  "ECONNREFUSED": "No connection could be made because the target machine actively refused it. This usually results from trying to connect to a service that is inactive on the foreign host. Kindly retry the delivery until it is completed.",
+  "UNABLE_TO_VERIFY_LEAF_SIGNATURE": "The certificate from the connected party is not trusted. Kindly check and fix your certificate configuration and retry the delivery until it is completed."
+}

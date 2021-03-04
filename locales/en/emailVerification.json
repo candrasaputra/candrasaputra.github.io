@@ -1,0 +1,14 @@
+{
+  "emailVerificationTitle": "Verify your email",
+  "emailSentTo": "We have sent an email to <1>{{email}}</1>.",
+  "verifyItsYou": "Please verify that it's you.",
+  "checkYourSpam": "<0>Check your spam</0> folder if you don't see it.",
+  "stillCannotFind": "Still can't find the email?",
+  "resendEmail": "Resend email",
+  "thankYouMessage": "Thank you for verifying your email.",
+  "emailVerifiedActiveSessionBody": "Return to your Dashboard to complete your account activation.",
+  "emailVerifiedInactiveSessionBody": "Please login to your Dashboard to complete your account activation.",
+  "loginToXendit": "Log in to Xendit",
+  "loginToInstamoney": "Log in to Instamoney",
+  "errorResend": "Something unexpected happened, we are investigating this issue right now."
+}

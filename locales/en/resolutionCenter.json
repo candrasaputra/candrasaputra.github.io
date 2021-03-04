@@ -1,0 +1,19 @@
+{
+  "ticketNo": "Ticket No. {{ ticketNo }}・{{ date }}",
+  "actionNeededTitle": "We need more information regarding this transaction",
+  "needAction": "Need Action",
+  "inProgress": "In Progress",
+  "resolved": "Resolved",
+  "contactUs": "Contact us",
+  "transactionId": "Transaction ID",
+  "amount": "Amount",
+  "vaNumber": "VA Number",
+  "finalVerdict": "Final Verdict",
+  "completed": "Completed",
+  "notFound": "Not Found",
+  "emptyText": "There is no issue yet.",
+  "inProgressBody": "We’re still checking your query.",
+  "needActionBody": "Please contact us to proceed further.",
+  "resolvedBody": "This issue has been resolved.",
+  "showingTotalAccounts": "Showing {{ from }} to {{ to }} of {{ size }} ticket(s)"
+}

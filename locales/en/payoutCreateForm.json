@@ -1,0 +1,11 @@
+{
+  "createPayout": "Create Payout",
+  "required": "Required",
+  "invalidEmail": "Invalid Email",
+  "enoughBalance": "Please ensure your cash balance stays higher than your total pending payouts",
+  "payoutCreated": "Payout Created",
+  "createAnother": "Create Another",
+  "createMinAmount": "Minimum amount {{amount}}",
+  "createAmountAvailable": "{{amount}} available",
+  "createError": "Error Creating Payout"
+}

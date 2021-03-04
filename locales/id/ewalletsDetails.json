@@ -1,0 +1,13 @@
+{
+  "details": "Detail",
+  "PAYMENT_NOT_FOUND_ERROR": "Pembayaran tidak ditemukan",
+  "ERROR_RETRIEVING_PAYMENTS": "Error menampilkan pembayaran",
+  "transactionAmount": "Jumlah Transaksi",
+  "ewalletType": "Tipe eWallet",
+  "dateCreated": "Tanggal Dibuat",
+  "externalId": "ID Eksternal",
+  "merchantDescriptor": "Penjelasan Merchant",
+  "fees": "Biaya",
+  "loadingEwalletsDetails": "Memuat Detail eWallets",
+  "callbackDetail": "Detail Callback"
+}

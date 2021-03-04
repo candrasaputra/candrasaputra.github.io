@@ -1,0 +1,9 @@
+{
+  "thankyouMessage": "Terima kasih telah melakukan verifikasi upaya login Anda!",
+  "loginMessage": "Silakan lanjutkan untuk login.",
+  "loginNow": "Masuk sekarang",
+  "backToDashboard": "Kembali ke Dashboard",
+  "errorFirstHeader": "Kami tidak dapat memverifikasi perangkat Anda.",
+  "errorSecondHeader": "Silakan coba untuk login kembali",
+  "description": "Atau, silahkan hubungi <1> help@xendit.co </ 1> untuk bantuan."
+}

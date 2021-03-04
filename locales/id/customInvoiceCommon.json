@@ -1,0 +1,7 @@
+{
+  "customInvoice": "Invoice khusus",
+  "loadingCustomization": "Memuat pengaturan Invoices...",
+  "updating": "Membarui pengaturan Invoice. Mohon tunggu sebentar...",
+  "succeedTitle": "pengaturan Anda telah berhasil diperbarui",
+  "failedTitle": "pengaturan mebarui invoice gagal"
+}

@@ -1,0 +1,12 @@
+{
+  "loadingRODetails": "Memuat Detail Retail Outlet",
+  "errorStatus1": "Kita tidak bisa mencapai server Anda. Hal ini bisa disebabkan oleh masalah konektivitas internet atau server Anda menjadi tidak tersedia untuk sementara karena pembaruan atau alasan lain.",
+  "errorStatus3": "Kami menerima status redirection. Pada umumnya, hal ini terjadi dikarenakan endpoint yang digunakan sedang dipindahkan sementara ataupun permanen.",
+  "errorStatus4": "Kami menerima kesalahan client. Hal ini bisa disebabkan oleh kesalahan penanganan permintaan payload callback kami pada endpoint Anda, silakan lihat kembali permintaan payload pada halaman rincian callback.",
+  "errorStatus5": "Kami menerima kesalahan server. Hal ini kemungkinan besar dikarenakan server callback Anda tidak bekerja seperti yang diharapkan pada saat kami mengirimkan callback ke server Anda.",
+  "headerTitle": "Detail",
+  "callbackDetailTitle": "Callback Detail",
+  "failureReason": "Alasan Gagal",
+  "eventHistory": "Riwayat",
+  "resendCallback": "Kirim Ulang"
+}

@@ -1,0 +1,14 @@
+{
+  "loadingDetails": "Loading On Demand Details...",
+  "odDetails": "On Demand Details",
+  "amount": "Amount",
+  "onDemandUrl": "On Demand URL",
+  "createdAt": "Created at",
+  "duration": "Duration per invoice",
+  "countLimit": "Count limit when",
+  "paid": "Paid",
+  "unpaid": "Unpaid",
+  "expired": "Expired",
+  "onDemandType": "Type",
+  "donationURL": "Donation URL"
+}

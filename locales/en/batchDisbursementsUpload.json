@@ -1,0 +1,20 @@
+{
+  "createBatch": "Create Batch",
+  "downloadTemplate": "Download template",
+  "downloadTemplateDesc": "Latest template: Added new destinations DANA, LINKAJA, SHOPEEPAY",
+  "phDownloadTemplateDesc": "Latest template: Supports up to ten thousand disbursements",
+  "uploadFilled": "Upload filled template",
+  "reference": "Batch reference",
+  "referenceTooltip": "Use reference to differentiate batches",
+  "clickThisArea": "Click here to select your file or drag the file inside this area",
+  "enableNV": "Enable account name check",
+  "enableNVTooltip": "Enabling this may increase processing time.",
+  "enableNVDescription": "Check the recipient's account number & name with the bank",
+  "FILE_FORMAT_ERROR": "File format is incorrect. Please use the template provided.",
+  "INVALID_FILE_ERROR": "File is invalid",
+  "DUPLICATE_BATCH_DISBURSEMENT_ERROR":"File is invalid",
+  "BATCH_DISBURSEMENT_MAXIMUM_ROWS_LIMIT_EXCEEDED_ERROR": "File contains more than maximum allowed number of rows",
+  "CREATE_FILE_ERROR": "Failed to create file url",
+  "FILE_NOT_FOUND_ERROR": "File is not found",
+  "FILE_NOT_EXCEL_ERROR":"Uploaded file should be in excel format. Please use the template provided"
+}

@@ -1,0 +1,9 @@
+{
+  "thankyouMessage": "Thank you for verifying your login attempt!",
+  "loginMessage": "Please continue to login.",
+  "loginNow": "Login Now",
+  "backToDashboard": "Back to Dashboard",
+  "errorFirstHeader": "We were unable to verify your device.",
+  "errorSecondHeader": "Please try to login again.",
+  "description": "Alternatively, please contact <1>help@xendit.co</1> for assistance."
+}

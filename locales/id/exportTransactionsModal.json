@@ -1,0 +1,18 @@
+{
+  "upToFiveEmail": "Anda hanya dapat mengisi maksimal 5 alamat email",
+  "invalidEmail": "Format email tidak valid",
+  "duplicateEmail": "Email sudah ada dalam daftar",
+  "sendToEmail": "Kirim ke Email",
+  "sendToEmailLabel": "Kirim ke email",
+  "selectDate": "Pilih tanggal",
+  "dateRange": "Rentang tanggal",
+  "basedOnCreated": "Berdasarkan tanggal transaksi dibuat",
+  "maximumDateRangeInfo": "Rentang maksimum untuk tanggal yang bisa ditentukan adalah 92 hari.",
+  "useCommaOrSpace": "Gunakan spasi atau koma untuk memisahkan email",
+  "emailInputInfo": "Kirim laporan ke beberapa penerima sekaligus, hingga 5 email.",
+  "today": "Hari ini ({{date}})",
+  "thisMonth": "Bulan ini ({{startDate}} - {{endDate}})",
+  "thisWeek": "7 hari terakhir ({{startDate}} - {{endDate}})",
+  "previousMonth": "Bulan lalu ({{startDate}} - {{endDate}})",
+  "custom": "Custom"
+}

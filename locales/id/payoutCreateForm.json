@@ -1,0 +1,11 @@
+{
+  "createPayout": "Buat Payout",
+  "required": "Wajib",
+  "invalidEmail": "Alamat email tidak valid",
+  "enoughBalance": "Harap pastikan bahwa saldo kas Anda tetap lebih tinggi dari total payout Anda yang tertunda",
+  "payoutCreated": "Payout Berhasil Dibuat",
+  "createAnother": "Buat Lagi",
+  "createMinAmount": "Jumlah minimum {{amount}}",
+  "createAmountAvailable": "{{amount}} tersedia",
+  "createError": "Kesalahan Membatalkan Payout"
+}

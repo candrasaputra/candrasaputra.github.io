@@ -1,0 +1,19 @@
+{
+    "status": "Status",
+    "createInvoice": "Create Invoice",
+    "create": "Create",
+    "customize": "Customize",
+    "date": "Date",
+    "email": "Email",
+    "payerEmail": "Payer Email",
+    "extId": "External ID",
+    "desc": "Description",
+    "amount": "Amount ({{curr}})",
+    "loadingInvoices": "Loading Invoices",
+    "emptyCardTitle": "No Invoices Match Your Filters.",
+    "emptyCardMsg": "Please change the filter or create new invoice",
+    "exportFailed": "Export Failed",
+    "reference": "Reference",
+    "amountWithoutCurr": "Amount",
+    "displayedInvoiceNo": "External ID is displayed as Invoice No. on customer’s invoice."
+}

@@ -1,0 +1,18 @@
+{
+  "activity": "Activity",
+  "profile": "Profile",
+  "accountInformation": "Account information",
+  "cash": "Cash",
+  "invoices": "Invoices",
+  "disbursements": "Disbursements",
+  "callbacks": "Callbacks",
+  "virtualAccounts": "Virtual Accounts",
+  "retailOutlets": "Retail Outlets",
+  "ewallet": "eWallets",
+  "transactions": "Transactions",
+  "loadingSubAccounts": "Loading sub-account details...",
+  "getSubAccountInfoError": "Unable to retrieve sub-account details. Please try to refresh your browser.",
+  "balance": "Balance",
+  "balanceHistory": "Balance History",
+  "pending": "Pending"
+}

@@ -1,0 +1,11 @@
+{
+  "pageNotExist": "Uh oh. Halaman ini tampaknya tidak ada.",
+  "testModeHeader": "Data Tes",
+  "allow": "Izinkan",
+  "cancel": "Batal",
+  "accessPermissionText": "akan diberikan akses untuk",
+  "permissionRead": "Melihat {{product}}",
+  "permissionWrite": "Mengelola {{product}}",
+  "permissionReadWrite": "Melihat dan mengelola {{product}}",
+  "agreementText": "{{appName}} dan Xendit akan menggunakan informasi tersebut sesuai dengan ketentuan layanan dan kebijakan privasi yang telah ditentukan."
+}

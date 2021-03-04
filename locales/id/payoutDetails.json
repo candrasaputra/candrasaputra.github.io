@@ -1,0 +1,20 @@
+{
+  "payoutDetails": "Rincian Payout",
+  "loadingDetails": "Memuat Rincian Payout",
+  "payoutAmt": "Nominal Transaksi",
+  "urlLink": "Payout URL link",
+  "paymentMethod": "Metode Pembayaran",
+  "dateCreated": "Tanggal Dibuat",
+  "accName": "Nama Rekening Bank",
+  "accNumber": "Nomor Akun/Rekening Bank",
+  "void": "Batalkan",
+  "eventHistory": "Daftar Peristiwa",
+  "eventCompleted": "Selesai",
+  "eventFee": "Biaya",
+  "eventClaimed": "Diklaim",
+  "eventAmount": "Jumlah",
+  "eventExpired": "Berakhir",
+  "eventVoided": "Dibatalkan",
+  "eventFailed": "Gagal",
+  "eventPendingPayout": "Payout Tertunda"
+}

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="14px" height="19px" viewBox="0 0 14 19" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.1 (78136) - https://sketchapp.com -->
+    <title>Untitled</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="send-payment-icon">
+            <polygon id="Path" points="0 0 14 0 14 19 0 19"></polygon>
+            <path d="M7,17.82 C6.531,17.82 6.14,17.664 5.828,17.352 C5.516,17.039 5.359,16.648 5.359,16.18 C5.359,15.71 5.516,15.314 5.829,14.988 C6.13236225,14.6664805 6.55809069,14.4890633 7,14.5 C7.469,14.5 7.86,14.663 8.172,14.988 C8.484,15.314 8.641,15.711 8.641,16.18 C8.641,16.648 8.484,17.04 8.171,17.352 C7.859,17.664 7.469,17.82 7,17.82 L7,17.82 Z M7.82,12.82 L6.18,12.82 L6.18,4.5 L2.43,8.25 L1.219,7.078 L7,1.297 L12.781,7.078 L11.571,8.25 L7.821,4.5 L7.821,12.82 L7.82,12.82 Z" id="Shape" fill="#FFFFFF" fill-rule="nonzero"></path>
+        </g>
+    </g>
+</svg>

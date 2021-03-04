@@ -1,0 +1,10 @@
+{
+  "verifyItsYou": "Pastikan ini Anda",
+  "toLoginEnterOTP": "Untuk log in, masukkan enam digit OTP yang telah kami kirim ke {{phoneNumber}}",
+  "didntReceiveOTP": "Tidak menerima kodenya? ",
+  "requestNewOTPIn": "Minta OTP baru dalam 00:{{count}}",
+  "requestNewOTP": "Minta OTP baru",
+  "haveTrouble": "Login terkendala?",
+  "signingIn": "Memproses masuk...",
+  "needHelp": "Butuh bantuan? <1>Minta pertolongan</1>"
+}

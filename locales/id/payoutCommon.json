@@ -1,0 +1,21 @@
+{
+  "infoPanelText": "Semua transaksi di bawah Rp 10.000 atau di atas Rp 100.000.000 (untuk bank selain BCA, BNI, BRI, Mandiri, dan Permata) yang disetujui setelah 13:00 WIB (UTC + 7) akan dikirimkan pada hari kerja berikutnya.",
+  "availPayoutBal": "Saldo Payout Yang Tersedia",
+  "status": "Status",
+  "filter": "Filters",
+  "date": "Tanggal",
+  "email": "Email",
+  "recipientEmail": "Alamat Email Penerima",
+  "extId": "Eksternal ID",
+  "desc": "Deskripsi",
+  "optional": "Opsional",
+  "amount": "Jumlah ({{curr}})",
+  "payoutAmount": "Jumlah Payout",
+  "voidPayout": "Batalkan Payout",
+  "searchBarPlaceholder": "Cari berdasarkan External ID...",
+  "searchBarTooltip": "Cari berdasarkan External ID",
+  "pendingTooltip": "Payout telah berhasil dibuat dan menunggu tanggapan dari pengguna",
+  "loadingPayouts": "Memuat Payout",
+  "emptyCardTitle": "Tidak Ada Payout yang Sesuai Dengan Filter Anda",
+  "emptyCardMsg": "Silahkan ubah filter atau buat baru Payout"
+}

@@ -1,0 +1,14 @@
+{
+  "headerTitle": "Escrow Customer Detail",
+  "cardHeaderTitle":"Detail",
+  "type":"Tipe",
+  "id":"ID",
+  "given_name":"Nama",
+  "surname":"Nama Keluarga",
+  "mobile_number":"Nomor Telepon",
+  "email":"Email",
+  "ktp_number":"Nomor KTP",
+  "npwp_number":"Nomor NPWP",
+  "external_id":"External ID",
+  "loadingEscrowCustomersDetails":"Memuat Detail Customer Escrow"
+}

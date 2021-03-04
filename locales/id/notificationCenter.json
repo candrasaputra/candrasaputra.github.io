@@ -1,0 +1,13 @@
+{
+  "notifications": "Notifikasi",
+  "products": "Produk",
+  "updates": "Pembaharuan",
+  "seeAllNotifs": "Lihat semua notifikasi",
+  "markAllAsRead": "Tandai semua dibaca",
+  "noNotification": "Belum ada notifikasi.",
+  "showingTotalNotifications": "Menampilkan {{ from }} sampai {{ to }} dari {{ size }} notifikasi",
+  "loadingNotifications": "Memuat semua notifikasi",
+  "errorFetch": "Notifikasi gagal dimuat.",
+  "errorReadOneNotification": "Gagal membaca notifikasi",
+  "errorReadAllNotification": "Gagal membaca semua notifikasi"
+}

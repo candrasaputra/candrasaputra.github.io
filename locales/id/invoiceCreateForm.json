@@ -1,0 +1,16 @@
+{
+  "displayedInvoiceNo": "ID eksternal ditampilkan sebagai Invoice No. pada Invoice pelanggan.",
+  "emailCheckbox": "Kirim Invoices ke alamat email ini",
+  "due": "Jatuh Tempo Invoice",
+  "amount": "Jumlah",
+  "invoiceRemainder": "Pengingat Invoice",
+  "doNotSendReminder": "Tidak perlu kirim pengingat",
+  "dayBeforeDueDate": "{{day}} hari sebelum tanggal jatuh tempo",
+  "descPlaceholder": "Deskripsi Invoice",
+  "congratulations": "Selamat!\n",
+  "created": "Invoice telah dibuat",
+  "createdAndSent": "Invoice telah dibuat dan dikirim",
+  "copyLinkBelow": "Bagikan invoice dengan pelanggan Anda",
+  "copyThis": "Salin url ini",
+  "createAnother": "Buat yang lain"
+}

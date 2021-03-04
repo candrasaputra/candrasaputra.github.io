@@ -1,0 +1,11 @@
+{
+  "pageNotExist": "Uh oh. This page doesn't seem to exist.",
+  "testModeHeader": "Test Data",
+  "allow": "Allow",
+  "cancel": "Cancel",
+  "accessPermissionText": "will have access to",
+  "permissionRead": "View {{product}}",
+  "permissionWrite": "Manage {{product}}",
+  "permissionReadWrite": "View and manage {{product}}",
+  "agreementText": "{{appName}} and Xendit will use the information in accordance with their respective terms of service and privacy policies."
+}

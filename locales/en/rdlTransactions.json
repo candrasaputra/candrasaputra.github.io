@@ -1,0 +1,22 @@
+{
+  "status": "Status",
+  "createdDate": "Created Date",
+  "id": "ID",
+  "type": "Type",
+  "externalId": "External ID",
+  "amount": "Amount",
+  "investorId": "Investor ID",
+  "copyExternalId": "Copy External ID",
+  "copyInvestorId": "Copy Investor ID",
+  "copyId": "Copy ID",
+  "totalMoneyIn": "Total Money In",
+  "totalMoneyOut": "Total Money Out",
+  "totalTransactions": "Total Transactions",
+  "loadingRDL": "Loading RDL...",
+  "emptyRDL": "No transactions found",
+  "emptyRDLSubtitle": "Please adjust the filter or create new RDL transactions",
+  "searchTooltip": "Search by product ID, external ID, RDL account number, destination account number, or investor ID",
+  "search": "Search...",
+  "transactionType": "Transaction Type",
+  "exportFailedInfo": "Export CSV exceeding system limit of {{exportCsvLimit}}, currently trying to process {{currentExportCsvCount}} transactions. Please reduce exported CSV transactions by decreasing date range or changing transaction filter."
+}

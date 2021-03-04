@@ -1,0 +1,10 @@
+{
+  "reminderTitle": "You have not set your IP whitelist",
+  "reminderContent1": "We recommend to set the IP whitelist so that any non-registered or suspicious IP can be blocked when trying to access the API.",
+  "reminderContent2": "Merchant will entirely responsible for any unauthorized transactions that occurs if IP whitelist is not being implemented.",
+  "learnMore": "Learn more about IP whitelist <1>here</1>",
+  "agreeAndSet": "Agree & Set IP Whitelist",
+  "setIPWhitelist": "Set IP Whitelist",
+  "ipWhitelistReminderError": "Error getting IP whitelist reminder information",
+  "remindMeLater": "Remind me later"
+}

@@ -1,0 +1,21 @@
+{
+  "status": "Status",
+  "ewalletType": "eWallet Type",
+  "accountNumber": "Account Number", 
+  "amount": "Amount",
+  "reference": "Reference",
+  "dateCreated": "Date Created",
+  "loadingOVOPayments": "Loading OVO payments...",
+  "emptyOVOPaymentCaption": "There is no OVO payment found",
+  "emptyOVOPaymentSubtitle": "Please adjust the filter or create new OVO transactions",
+  "comingSoon": "Coming soon",
+  "ovoNotActive": "You haven't activated OVO",
+  "activateOVO": "Activate OVO",
+  "errorFetchingEwalletConfig": "Cannot get eWallet configuration",
+  "statuses": "Statuses",
+  "pending": "Pending",
+  "failed": "Failed", 
+  "paid": "Paid",
+  "settled": "Settled",
+  "ovoSearchBarPlaceholder": "Search by Account Number or Reference"
+}

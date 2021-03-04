@@ -1,0 +1,14 @@
+{
+  "emailVerificationTitle": "Verifikasi email",
+  "emailSentTo": "Kami telah mengirimkan email ke <1>{{email}}</1>.",
+  "checkYourSpam": "<0>Cek folder spam</0> jika anda tidak menemukannya.",
+  "verifyItsYou": "Mohon verifikasi.",
+  "stillCannotFind": "Masih tidak menemukan email?",
+  "resendEmail": "Kirim ulang email",
+  "thankYouMessage": "Terima kasih telah melakukan verifikasi email Anda.",
+  "emailVerifiedActiveSessionBody": "Kembali ke Dashboard untuk melengkapi aktivasi akun.",
+  "emailVerifiedInactiveSessionBody": "Mohon login ke Dashboard untuk melengkapi aktivasi akun.",
+  "loginToXendit": "Masuk ke Xendit",
+  "loginToInstamoney": "Masuk ke Instamoney",
+  "errorResend": "Terjadi kesalahan dan tim kami sedang berupaya untuk memperbaikinya. Silakan coba lagi nanti."
+}

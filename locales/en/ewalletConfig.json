@@ -1,0 +1,19 @@
+{
+  "pleaseContact": " Please contact <2>help@xendit.co</2> if you have any questions",
+  "infoOne":"If your account has been activated, you may submit an OVO application request below. We will process your OVO application and email you once your application is successful or if more information is needed.",
+  "infoTwo":"You can also submit your application in \"Settings > Configuration > eWallets\" if you close this window",
+  "submitTitleOVO": "Submit your OVO application to start accepting payments",
+  "submitApplication": "Submit Application",
+  "inProcess": "Your application is in process, please contact <a href=\"mailto:help@xendit.co\">help@xendit.co</a> if you have any questions",
+  "successMessage": "We will process your {{productType}} application and email you once your application is successful or if more information is needed. Please contact <a href=\"mailto:help@xendit.co\">help@xendit.co</a> if you have any questions",
+  "businessLogo": "Business Logo",
+  "publicFacingInformation": "Public Facing Information",
+  "customizeInfo": "Customize how you appear when your customers are paying on their OVO app",
+  "businessName": "Business Name",
+  "submitRequest": "We will submit your request to OVO and update you with its status within 5 business days.",
+  "preview": "Preview",
+  "customerSee":"This is what your customers will see on their OVO app",
+  "ovoActivation": "OVO Activation",
+  "allowCustomers":"Allow your customers to pay you using their OVO eWallet",
+  "useDifferentLogo": "Use a different logo"
+}

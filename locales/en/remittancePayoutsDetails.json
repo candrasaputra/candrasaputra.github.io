@@ -1,0 +1,22 @@
+{
+  "accountCode": "Account Code",
+  "accountHolderName": "Account Holder Name",
+  "accountNumber": "Account Number",
+  "bankCode": "Bank Code",
+  "bankReference": "Bank Reference",
+  "completed": "Completed",
+  "dateCreated": "Date Created",
+  "description": "Description",
+  "externalIDLabel":"External ID",
+  "givenName": "Given Name",
+  "headerTitle": "Details",
+  "loadingProof": "Loading Transactions Proof...",
+  "loadingRemittancePayoutsDetails": "Loading Remittance Payout Details",
+  "purposeCode": "Purpose Code",
+  "recipientInformationTitle":"Recipient Information",
+  "senderInformationTitle":"Sender Information",
+  "sourceOfFunds": "Source Of Funds",
+  "surname": "Surname",
+  "transactionAmountTitle":"Transaction Amount",
+  "transactionID": "Transaction ID"
+}

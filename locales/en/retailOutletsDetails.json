@@ -1,0 +1,12 @@
+{
+  "loadingRODetails": "Loading Retail Outlets Details",
+  "errorStatus1": "We couldn't reach your server. This could be due to an internet connectivity issue or your server being temporarily unavailable because of an update or other reason.",
+  "errorStatus3": "We receive redirection status. This could be because the endpoint used for the callback is being moved, temporarily or permanently.",
+  "errorStatus4": "We receive client error. This could be due to mishandling of our callback request payload on your endpoint, please take a look at the request payload on callback detail page.",
+  "errorStatus5": "We receive server error. This is most likely because your callback endpoint is not working as expected at the time when we hit your endpoint.",
+  "headerTitle": "Details",
+  "callbackDetailTitle": "Callback Detail",
+  "failureReason": "Failure Reason",
+  "eventHistory": "Event History",
+  "resendCallback": "Resend"
+}

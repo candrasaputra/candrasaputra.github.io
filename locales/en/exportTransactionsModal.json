@@ -1,0 +1,19 @@
+{
+  "upToFiveEmail": "You can only add up to 5 emails",
+  "uptoFiveEmails": "Send the reports to multiple recipients, up to 5 emails.",
+  "invalidEmail": "Invalid email format",
+  "duplicateEmail": "Email already in your list",
+  "sendToEmail": "Send to Email",
+  "selectDate": "Select date",
+  "dateRange": "Date range",
+  "basedOnCreated": "Based on transactions created date",
+  "maximumDateRangeInfo": "The maximum range of date that can be set is 92 days.",
+  "sendToEmailLabel": "Send to email",
+  "useCommaOrSpace": "Use space or comma to separate email",
+  "emailInputInfo": "Send the reports to multiple recipients, up to 5 emails.",
+  "today": "Today ({{date}})",
+  "thisMonth": "This month ({{startDate}} - {{endDate}})",
+  "thisWeek": "Last 7 days ({{startDate}} - {{endDate}})",
+  "previousMonth": "Previous month ({{startDate}} - {{endDate}})",
+  "custom": "Custom"
+}

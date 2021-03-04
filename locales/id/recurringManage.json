@@ -1,0 +1,21 @@
+{
+  "pauseRecurring": "Jeda Recurring",
+  "pauseAreYouSure": "Anda yakin ingin menjeda pembayaran recurring dengan ID eksternal {{extId}} ke {{email}}",
+  "yesPause": "Ya, Jeda",
+  "pausedRecurring": "Recurring Dijeda",
+  "recurringHasPaused": "Recurring untuk ID eksternal {{extId}} ke {{email}} telah dijeda",
+  "errorPausing": "Kesalahan Menjeda Recurring",
+  "stopRecurring": "Berhentikan Recurring",
+  "stopAreYouSure": "Anda yakin ingin menghentikan pembayaran recurring dengan ID eksternal {{extId}} ke {{email}}",
+  "yesStop": "Ya, Berhenti",
+  "stoppedRecurring": "Recurring Diberhentikan",
+  "recurringHasStopped": "Recurring untuk ID eksternal {{extId}} ke {{email}} telah diberhenti",
+  "errorStopping": "Kesalahan Menghentikan Recurring",
+  "resumeRecurring": "Lanjutkan Recurring",
+  "resumeAreYouSure": "Anda yakin ingin melanjutkan pembayaran recurring dengan ID eksternal {{extId}} ke {{email}}",
+  "yesResume": "Ya, Lanjut",
+  "resumedRecurring": "Recurring Dilanjutkan",
+  "recurringHasResumed": "Recurring untuk ID eksternal {{extId}} ke {{email}} telah dilanjut",
+  "errorResuming": "Kesalahan Melanjutkan Recurring",
+  "cancelKeep": "Batal, Tetap {{status}}"
+}

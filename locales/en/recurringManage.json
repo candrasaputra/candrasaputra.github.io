@@ -1,0 +1,21 @@
+{
+  "pauseRecurring": "Pause Recurring",
+  "pauseAreYouSure": "Are you sure you want to pause recurring payment with external ID {{extId}} to {{email}}",
+  "yesPause": "Yes, Pause",
+  "pausedRecurring": "Paused Recurring",
+  "recurringHasPaused": "Recurring for external ID {{extId}} to {{email}} has paused",
+  "errorPausing": "Error Pausing Recurring",
+  "stopRecurring": "Stop Recurring",
+  "stopAreYouSure": "Are you sure you want to stop recurring payment with external ID {{extId}} to {{email}}",
+  "yesStop": "Yes, Stop",
+  "stoppedRecurring": "Stopped Recurring",
+  "recurringHasStopped": "Recurring for external ID {{extId}} to {{email}} has stopped",
+  "errorStopping": "Error Stopping Recurring",
+  "resumeRecurring": "Resume Recurring",
+  "resumeAreYouSure": "Are you sure you want to resume recurring payment with external ID {{extId}} to {{email}}",
+  "yesResume": "Yes, Resume",
+  "resumedRecurring": "Resumed Recurring",
+  "recurringHasResumed": "Recurring for external ID {{extId}} to {{email}} has resumed",
+  "errorResuming": "Error Resuming Recurring",
+  "cancelKeep": "Cancel, Keep {{status}}"
+}

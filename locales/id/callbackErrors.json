@@ -1,0 +1,17 @@
+{
+  "errorCode100": "Kita tidak bisa mencapai server Anda. Hal ini bisa disebabkan oleh masalah konektivitas internet atau server Anda tidak tersedia untuk sementara karena pembaruan atau alasan lainnya.",
+  "errorCode300": "Kami menerima pengalihan status. Ini bisa jadi karena server yang digunakan untuk callback sedang dipindahkan, sementara atau permanen.",
+  "errorCode400": "Kami menerima error dari client / Anda. Ini dapat terjadi ketika sistem Anda tidak mengharapkan data callback yang kami kirim. Silahkan cek kembali data payload yang kami kirim pada halaman Callback untuk kemudian disesuaikan dan lakukan proses pengiriman ulang.",
+  "errorCode500": "Kami menerima error dari server. Ini dapat terjadi ketika sistem Anda sedang dalam tahap pemeliharaan atau down pada saat pengiriman callback sehingga pengiriman menjadi gagal.",
+  "errorCategory100": "Respon Informasi",
+  "errorCategory300": "Pengalihan",
+  "errorCategory400": "Klien Error",
+  "errorCategory500": "Server Error",
+  "ETIMEDOUT": "Koneksi atau pengiriman data gagal akibat pihak yang akan dikoneksi tidak merespon dengan benar pada jangka waktu tertentu. Mohon bantuannya untuk mengecek kembali data pengiriman di sistem Anda sebelum  mengirimkan ulang data callback tersebut dan terapkan penanganan idempotent pada sistem Anda bila Anda belum melakukannya.",
+  "ECONNRESET": "Koneksi telah dimatikan secara paksa oleh rekan / peer yang menyebabkan koneksi putus. Mohon bantuannya untuk mengecek kembali data pengiriman di sistem Anda sebelum  mengirimkan ulang data callback tersebut dan terapkan penanganan idempotent pada sistem Anda bila Anda belum melakukannya.",
+  "CERT_HAS_EXPIRED": "Kami tidak dapat menjangkau server Anda diakibatkan sertifikat URL yang telah kedaluwarsa. Mohon bantuannya untuk melakukan pengecekan dan pembaruan sertifikat SSL Anda agar dapat menerima callback secara normal kembali.",
+  "EAI_AGAIN": "Kami tidak dapat menjangkau server Anda diakibatkan pencarian DNS timeout. Ini dapat terjadi ketika kendala pada pengaturan proxy Anda atau terdapat gangguan sementara pada  jaringan koneksi. Mohon bantuannya untuk mengecek koneksi Internet Anda dan lakukan proses pengiriman ulang.",
+  "ESOCKETTIMEDOUT": "Kami tidak dapat menjangkau server Anda diakibatkan pencarian DNS timeout. Ini dapat terjadi ketika kendala pada pengaturan proxy Anda atau terdapat gangguan sementara pada  jaringan koneksi. Mohon bantuannya untuk mengecek koneksi Internet Anda dan lakukan proses pengiriman ulang.",
+  "ECONNREFUSED": "Tidak ada koneksi yang berhasil dibuat akibat mesin target secara aktif menolak pembuatan koneksi. Ini biasanya terjadi akibat percobaan koneksi ke mesin atau servis yang sudah tidak aktif pada host asing. Mohon bantuannya untuk melakukan pengiriman ulang sampai pengiriman berhasil.",
+  "UNABLE_TO_VERIFY_LEAF_SIGNATURE": "Sertifikat dari sistem Anda tidak terpercaya. Mohon bantuannya untuk melakukan pengecekan dan perbaikan konfigurasi sertifikat Anda untuk menerima callback secara normal kembali dan lakukan proses pengiriman ulang."
+}

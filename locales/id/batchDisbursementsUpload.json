@@ -1,0 +1,20 @@
+{
+  "createBatch": "Buat Batch",
+  "downloadTemplate": "Unduh template",
+  "downloadTemplateDesc": "Template terbaru: Mendukung DANA, LINKAJA, SHOPEEPAY",
+  "phDownloadTemplateDesc": "Template terbaru: Mendukung hingga 10.000 disbursements",
+  "uploadFilled": "Unggah template yang telah terisi",
+  "reference": "Referensi batch",
+  "referenceTooltip": "Gunakan referensi untuk memberi pembeda pada batch",
+  "clickThisArea": "Klik atau tarik dan jatuhkan file di dalam area ini",
+  "enableNV": "Aktifkan pemeriksaan nama rekening",
+  "enableNVTooltip": "Mengaktifkan pemeriksaan akan menambah waktu pemrosesan.",
+  "enableNVDescription": "Memeriksa nomor rekening dan nama penerima dengan bank",
+  "FILE_FORMAT_ERROR": "Format berkas salah. Mohon gunakan template yang telah disediakan.",
+  "INVALID_FILE_ERROR": "Berkas tidak valid",
+  "DUPLICATE_BATCH_DISBURSEMENT_ERROR": "Berkas tidak valid",
+  "BATCH_DISBURSEMENT_MAXIMUM_ROWS_LIMIT_EXCEEDED_ERROR": "Dokumen mengandung jumlah baris maksimum yang diperbolehkan",
+  "CREATE_FILE_ERROR": "Gagal membuat berkas url",
+  "FILE_NOT_FOUND_ERROR": "Berkas tidak ditemukan",
+  "FILE_NOT_EXCEL_ERROR": "Berkas yang diunggah harus dalam format excel. Mohon gunakan template yang telah disediakan."
+}

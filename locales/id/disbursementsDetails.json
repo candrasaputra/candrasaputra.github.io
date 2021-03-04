@@ -1,0 +1,23 @@
+{
+  "loadingTransactions": "Memuat Rincian ...",
+  "loadingProof": "Memuat Bukti Transaki...",
+  "FETCHING_EMAIL_RECEIPT_ERROR": "Bukti pembayaran saat ini tidak tersedia. Silakan coba lagi segera.",
+  "transactionAmount": "Nominal Transaksi",
+  "date": "Tanggal",
+  "fee": "Biaya {{entity_name}}",
+  "externalId": "Eksternal ID",
+  "callbackDetails": "Rincian Callback",
+  "callbackStatusSuccess": "Sukses",
+  "resendCallback": "Kirim ulang",
+  "eventHistory": "Riwayat Kejadian",
+  "createdDate": "Dibuat",
+  "completedDate": "Selesai",
+  "paymentDetails": "Rincian Pembayaran",
+  "accountHolderName": "Nama",
+  "bankCode": "Kode Bank",
+  "bankAccountNumber": "Nomor rekening bank",
+  "bankReference": "Referensi bank",
+  "disbursementDescription": "Deskripsi",
+  "failureCode": "Kode kegagalan",
+  "failureDetails": "Rincian kegagalan"
+}
