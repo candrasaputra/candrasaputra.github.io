@@ -1,9 +1,0 @@
-{
-  "required": "Wajib diisi",
-  "invalidEmail": "Alamat email tidak valid",
-  "invalidNumber": "Masukan nomor tidak valid",
-  "invalidAmount": "Nominal tidak valid",
-  "minAmount": "Nominal tidak dapat lebih rendah dari 1",
-  "maxAmount": "Melebihi jumlah maksimum",
-  "wrongDuration": "Tanggal kedaluarsa tidak boleh kurang dari waktu sekarang"
-}

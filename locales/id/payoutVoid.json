@@ -1,8 +1,0 @@
-{
-  "voidPayout": "Batalkan Payout",
-  "waitAMinute": "Tunggu sebentar!",
-  "voidAreYouSure": "Anda yakin untuk membatalkan payout ini?",
-  "voidError": "Kesalahan Membatalkan Payout",
-  "voidedPayout": "Payout Dibatalkan",
-  "payoutAmount": "Jumlah Amount ({{curr}})"
-}

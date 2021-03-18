@@ -1,9 +1,0 @@
-{
-  "required": "Required",
-  "invalidEmail": "Invalid email",
-  "invalidNumber": "Invalid number input",
-  "invalidAmount": "Invalid amount format",
-  "minAmount": "Amount should not be lower than 1",
-  "maxAmount": "Maximum amount exceeded",
-  "wrongDuration": "Expiration date cannot less than current time"
-}

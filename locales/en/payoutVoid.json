@@ -1,8 +1,0 @@
-{
-  "voidPayout": "Void Payout",
-  "waitAMinute": "Wait a minute!",
-  "voidAreYouSure": "Are you sure you would like to void the payout?",
-  "voidError": "Error Voiding Payout",
-  "voidedPayout": "Payout Voided",
-  "payoutAmount": "Payout Amount ({{curr}})"
-}
